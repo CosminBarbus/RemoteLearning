@@ -8,6 +8,8 @@
 ## Table of contents
 
 - [The problem](#the-problem)
+- [Session 1](#session-1)
+- [Session 2](#session-2)
 
 
 ## The problem
@@ -38,3 +40,18 @@ Concepts:
    - Sales (product, quantity, price, value, date)
    - Volume (product, total quantity)
    - Actual stock (product, current stock)
+ 
+
+## Session 1
+
+Animal Instinct project :)
+
+## Session 2
+
+To Do:
+- Draw the conceptual model of the [The problem](#the-problem):
+  - [to read](http://www.cs.toronto.edu/~jm/340S/PDF2/CM2.pdf)
+  - Identify all the concepts
+  - Identify the interaction between them
+  - Draw a simple diagram (line and boxes) that covers all the identified concepts
+ 
