@@ -1,6 +1,6 @@
 <p align="center">
   
-  <h3 align="center">Remote Learning</h3>
+  <h1 align="center">Remote Learning</h1>
 </p>
 
 <br>
