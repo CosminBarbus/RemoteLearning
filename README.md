@@ -59,7 +59,9 @@ To Do:
 ## Session 3
 
 Phase 1: discuss about conceptual models
+
 Phase 2: Select the Product concept and discuss the requirements for it:
+
  - The vending machine should contain a wide categories of products
  - The vending machine has a collection of products
  - All products have the same attributes: price, category
