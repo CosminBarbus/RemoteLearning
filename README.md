@@ -55,3 +55,19 @@ To Do:
   - Identify the interaction between them
   - Draw a simple diagram (line and boxes) that covers all the identified concepts
  
+## Session 3
+
+Phase 1: discuss about conceptual models
+Phase 2: Select the Product concept and discuss the requirements for it:
+ - The vending machine should contain a wide categories of products
+ - The vending machine has a collection of products
+ - All products have the same attributes: price, category
+ - The vending machine can have more products of the same type
+ - Introduce UML (Class and Relations) - https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_uml_basic_notation.htm
+Home work:
+ - Draw the Product and the ProductCollection classes using UML. The diagram should depict the relation between the classes
+ - Implement the Product and the ProductCollection:
+    - Take into account the collection behavior:
+      - Add, Remove, Count, GetItem
+    - Bonus:
+     - Draw one sequence diagrams that indicates the ProductCollection behavior's
