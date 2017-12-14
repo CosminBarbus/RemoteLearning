@@ -11,6 +11,7 @@
 - [Session 1](#session-1)
 - [Session 2](#session-2)
 - [Session 3](#session-3)
+- [Session 4](#session-4)
 
 
 ## The problem
@@ -67,6 +68,7 @@ Phase 2: Select the Product concept and discuss the requirements for it:
  - All products have the same attributes: price, category
  - The vending machine can have more products of the same type
  - Introduce UML (Class and Relations) - https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_uml_basic_notation.htm
+
 Home work:
  - Draw the Product and the ProductCollection classes using UML. The diagram should depict the relation between the classes
  - Implement the Product and the ProductCollection:
@@ -74,3 +76,20 @@ Home work:
       - Add, Remove, Count, GetItem
     - Bonus:
      - Draw one sequence diagrams that indicates the ProductCollection behavior's
+
+## Session 4
+
+Phase 1: discuss about implementations
+
+Phase 2: The product can be located inside the vending machine by row, column and size
+
+ - the produc can be removed
+ - discuss about inherintance
+ 
+ Home work:
+ 
+  - To read:
+    - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance
+    - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism
+  - Update the conceptual model and the class diagram
+  - implement the ContainableItem and update the ProductCollection (also change its name)
