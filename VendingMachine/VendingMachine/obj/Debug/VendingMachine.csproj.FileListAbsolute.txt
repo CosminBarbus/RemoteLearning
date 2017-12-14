@@ -1,0 +1,6 @@
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachine\bin\Debug\VendingMachine.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachine\obj\Debug\VendingMachine.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache

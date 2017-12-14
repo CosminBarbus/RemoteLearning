@@ -1,0 +1,10 @@
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\bin\Debug\VendingMachineTests.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\bin\Debug\VendingMachineTests.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\bin\Debug\nunit.framework.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\bin\Debug\nunit.framework.xml
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\obj\Debug\VendingMachineTests.csproj.CoreCompileInputs.cache
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\obj\Debug\VendingMachineTests.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\obj\Debug\VendingMachineTests.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\bin\Debug\VendingMachine.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\bin\Debug\VendingMachine.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineTests\obj\Debug\VendingMachineTests.csprojResolveAssemblyReference.cache
