@@ -1,0 +1,7 @@
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
