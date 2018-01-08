@@ -12,7 +12,8 @@
 - [Session 2](#session-2)
 - [Session 3](#session-3)
 - [Session 4](#session-4)
-
+- [Session 5](#session-5)
+- [Session 6](#session-6)
 
 ## The problem
 
@@ -93,3 +94,20 @@ Phase 2: The product can be located inside the vending machine by row, column an
     - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism
   - Update the conceptual model and the class diagram
   - implement the ContainableItem and update the ProductCollection (also change its name)
+## Session 5
+
+Phase 1: discuss about Inheritance vs Composition and another perspective of the ContainableItem
+a ContainableItem can have a Product or a Product is a ContainableItem
+
+Phase 2:
+Introduce a new requirement. An item can be disposed.
+
+Home work:
+ - To read:  https://web.archive.org/web/20170721042926/https://www.microsoft.com/net/tutorials/csharp/getting-started/encapsulation-oop
+ - Update the conceptual model and the class diagram
+ - Implement the Dispenser
+## Session 6
+## Session 7
+## Session 8
+## Session 9
+## Session 10
