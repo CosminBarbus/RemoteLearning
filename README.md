@@ -107,6 +107,26 @@ Home work:
  - Update the conceptual model and the class diagram
  - Implement the Dispenser
 ## Session 6
+
+Phase 1: discuss about the home work
+
+Phase 2:
+
+Introduce a new requirement. You have to pay for the selected item.
+
+ - Introduce the concept of PaymentTerminal:
+   - Collect the money
+      - Coins
+      - Banknote
+      - CreditCard - details will be added in Session 07
+   - Give change (only coins)
+   
+ Home work
+ 
+  - To read: http://www.oodesign.com/observer-pattern.html or http://www.dofactory.com/net/observer-design-pattern
+  - Update the conceptual model and the class diagram
+  - Implement the Payment
+
 ## Session 7
 ## Session 8
 ## Session 9
