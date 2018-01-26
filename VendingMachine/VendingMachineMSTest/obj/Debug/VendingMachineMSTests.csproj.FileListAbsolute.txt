@@ -1,0 +1,15 @@
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\VendingMachineMSTest.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\VendingMachineMSTest.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\VendingMachine.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\VendingMachine.pdb
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\obj\Debug\VendingMachineMSTests.csprojResolveAssemblyReference.cache
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\obj\Debug\VendingMachineMSTests.csproj.CoreCompileInputs.cache
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\obj\Debug\VendingMachineMSTest.dll
+C:\Users\cosmin.barbus\Source\Repos\RemoteLearning\VendingMachine\VendingMachineMSTest\obj\Debug\VendingMachineMSTest.pdb
