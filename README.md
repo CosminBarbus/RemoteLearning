@@ -14,6 +14,7 @@
 - [Session 4](#session-4)
 - [Session 5](#session-5)
 - [Session 6](#session-6)
+- [Session 7](#session-7)
 
 ## The problem
 
@@ -128,6 +129,17 @@ Introduce a new requirement. You have to pay for the selected item.
   - Implement the Payment
 
 ## Session 7
+There is an issue with the OnPayment event. Everybody can trigger the payment because Notify is public.
+
+New requirement: You have to pay for the selected item.
+ - Update the concept of Payment in order to support credit cards
+   - credit card should be validated
+   - the payment should be handled by a thrid component (mocked)
+
+Home work
+  - Redesign the PaymentEvent so Notify is accessible only by PaymentTerminal
+  - Update the conceptual model and the class diagram
+  - Implement the CreditCard Payment
 ## Session 8
 ## Session 9
 ## Session 10
