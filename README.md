@@ -15,6 +15,7 @@
 - [Session 5](#session-5)
 - [Session 6](#session-6)
 - [Session 7](#session-7)
+- [Session 8](#session-8)
 
 ## The problem
 
@@ -140,6 +141,14 @@ Home work
   - Redesign the PaymentEvent so Notify is accessible only by PaymentTerminal
   - Update the conceptual model and the class diagram
   - Implement the CreditCard Payment
-## Session 8
+## Session 8 Collect Data
+Introduce a new requirement. We need some statistical reports to understand if our business is profitable or not. In order to produce the reports, data has to be collected.
+
+Sigleton or Repository Pattern.
+
+Home work
+ - Update the conceptual model and the class diagram
+ - Implement the Database component - in memory storage
+
 ## Session 9
 ## Session 10
