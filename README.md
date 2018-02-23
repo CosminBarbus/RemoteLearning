@@ -15,7 +15,9 @@
 - [Session 5](#session-5)
 - [Session 6](#session-6)
 - [Session 7](#session-7)
-- [Session 8](#session-8)
+- [Session 8 Collect Data](#session-8)
+- [Session 9 CSV Reports](#session-9)
+- [Session 10 Retrospective](#session-10)
 
 ## The problem
 
@@ -150,5 +152,10 @@ Home work
  - Update the conceptual model and the class diagram
  - Implement the Database component - in memory storage
 
-## Session 9
-## Session 10
+## Session 9 CSV Reports
+Introduce a new requirement. Produce CSV reports.
+
+Home work
+ - update the conceptual model and class diagram
+ - implement the Report component
+## Session 10 Retrospective
