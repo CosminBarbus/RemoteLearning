@@ -16,8 +16,8 @@
 - [Session 6](#session-6)
 - [Session 7](#session-7)
 - [Session 8 Collect Data](#session-8)
-- [Session 9 CSV Reports](#session-9)
-- [Session 10 Retrospective](#session-10)
+- [Session 9 CSV Reports](#session-9-csv-reports)
+- [Session 10 Retrospective](#session-10-retrospective)
 
 ## The problem
 
